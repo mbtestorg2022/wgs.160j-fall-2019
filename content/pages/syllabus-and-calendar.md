@@ -34,11 +34,48 @@ As participants in this class, each of us commits to supporting an inclusive cla
 
 _Grading Policy_
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation in class discussions | 40% |
-| In-class midterm exam | 30% |
-| Final paper (including presenting concept and themes to the class) | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class discussions
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper (including presenting concept and themes to the class)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detailed information on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
@@ -62,19 +99,258 @@ Some other books are mentioned in the [Readings and Videos]({{< baseurl >}}/page
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Science, power, and social responsibility {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Nuclear weapons and gender {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Nuclear Freeze campaign and the role of organizers {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The birth of environmentalism {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Climate change {{< br >}}{{< br >}} _Guest speaker during first class: Josué Lopez, Fossil Free MIT_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The Civil Rights movement {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Vietnam War protests by scientists {{< br >}}{{< br >}} _Student summaries of final paper concepts_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The March 4 movement, the founding of the Union of Concerned Scientists, and the fate of MIT’s Special Laboratories {{< br >}}{{< br >}} _Student summaries of final paper concepts_ {{< br >}}{{< br >}} _Guest speakers: [Dr. Aron M. Bernstein](https://web.mit.edu/physics/people/inremembrance/bernstein_aron.html), MIT Department of Physics, and [Heather Nan Lechtman](https://dmse.mit.edu/people/heather-nan-lechtman), MIT Department of Materials Science and Engineering_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Concerns about genetic engineering {{< br >}}{{< br >}} _Student summaries of final paper concepts_ {{< br >}}{{< br >}} _Guest speaker: [Dr. Jon Beckwith](http://beckwith.med.harvard.edu/people/jonb.htm), Harvard Medical School, Department of Microbiology and Immunobiology_ {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} Midterm exam {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} The status of women in science {{< br >}}{{< br >}} _Guest speaker: [Dr. Nancy Hopkins](https://biology.mit.edu/profile/nancy-hopkins/), MIT Department of Biology_ {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Intersectional feminism {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}} {{< br >}}{{< br >}} Final paper due {{< br >}}{{< br >}} {{< /td-colspan >}} ||
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Student activism at MIT, 1980s to present {{< br >}}{{< br >}} _Guest speaker: [Dr. Steven Penn](https://www.hws.edu/academics/physics/facultyProfile.aspx?facultyID=268), Hobart and William Smith Colleges, Department of Physics_ {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Science, power, and social responsibility
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nuclear weapons and gender
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Nuclear Freeze campaign and the role of organizers
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The birth of environmentalism
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Climate change
+
+_Guest speaker during first class: Josué Lopez, Fossil Free MIT_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Civil Rights movement
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vietnam War protests by scientists
+
+_Student summaries of final paper concepts_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The March 4 movement, the founding of the Union of Concerned Scientists, and the fate of MIT’s Special Laboratories
+
+_Student summaries of final paper concepts_
+
+_Guest speakers: [Dr. Aron M. Bernstein](https://web.mit.edu/physics/people/inremembrance/bernstein_aron.html), MIT Department of Physics, and [Heather Nan Lechtman](https://dmse.mit.edu/people/heather-nan-lechtman), MIT Department of Materials Science and Engineering_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Concerns about genetic engineering
+
+_Student summaries of final paper concepts_
+
+_Guest speaker: [Dr. Jon Beckwith](http://beckwith.med.harvard.edu/people/jonb.htm), Harvard Medical School, Department of Microbiology and Immunobiology_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+Midterm exam
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The status of women in science
+
+_Guest speaker: [Dr. Nancy Hopkins](https://biology.mit.edu/profile/nancy-hopkins/), MIT Department of Biology_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Intersectional feminism
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+
+
+Final paper due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Student activism at MIT, 1980s to present
+
+_Guest speaker: [Dr. Steven Penn](https://www.hws.edu/academics/physics/facultyProfile.aspx?facultyID=268), Hobart and William Smith Colleges, Department of Physics_
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
