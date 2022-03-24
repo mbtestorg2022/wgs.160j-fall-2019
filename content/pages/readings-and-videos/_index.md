@@ -130,9 +130,9 @@ _Read:_
 
 Wittner, Lawrence S. “[The Nuclear Freeze and Its Impact](https://www.armscontrol.org/act/2010_12/LookingBack).” Arms Control Association. 
 
-Forsberg, Randall. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Call to Halt the Nuclear Arms Race.” (PDF)](https://livingwiththebomb.files.wordpress.com/2013/08/call-to-halt-arms-race.pdf)
+Forsberg, Randall. [“Call to Halt the Nuclear Arms Race.” (PDF)](https://livingwiththebomb.files.wordpress.com/2013/08/call-to-halt-arms-race.pdf)
 
-———. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Impact of Activists on Nuclear Disarmament.” (PDF)](https://www.h-net.org/reviews/showpdf.php?id=9328) H-Net Reviews in the Humanities & Social Sciences. May 2004. (Note: This is a review of Lawrence S. Wittner's books _The Struggle Against the Bomb: Volumes 1–3._)
+———. [“The Impact of Activists on Nuclear Disarmament.” (PDF)](https://www.h-net.org/reviews/showpdf.php?id=9328) H-Net Reviews in the Humanities & Social Sciences. May 2004. (Note: This is a review of Lawrence S. Wittner's books _The Struggle Against the Bomb: Volumes 1–3._)
 
 _Optional background for a possible final paper topic:_
 
@@ -174,7 +174,7 @@ _Read:_
 
 Carson, Rachel. “A Fable for Tomorrow,” “The Obligation to Endure,” and “Elixirs of Death.” Chapters 1–3 in _Silent Sprin_g. Houghton Mifflin Company, 2002. ISBN: 9780618249060. \[Preview with [Google Books](https://www.google.com/books/edition/Silent_Spring/HeR1l0V0r54C?hl=en&gbpv=1)\]
 
-Norwood, Vera L. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Nature of Knowing: Rachel Carson and the American Environment.” (PDF)](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1010&context=amst_fsp) _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 740–60.
+Norwood, Vera L. [“The Nature of Knowing: Rachel Carson and the American Environment.” (PDF)](https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=1010&context=amst_fsp) _Signs: Journal of Women in Culture and Society_ 12, no. 4 (1987): 740–60.
 
 Di Chiro, Giovanna. “[Teaching Urban Ecology: Environmental Studies and the Pedagogy of Intersectionality](https://www.jstor.org/stable/40545983?seq=1#metadata_info_tab_contents).” _Feminist Teacher_ 16, no. 2 (2006): 98–109.
 
@@ -214,11 +214,11 @@ _Read:_
 
 \[BE\] Chapter 6: Does Science Take a Back Seat to Politics?
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Political Interference with Government Climate Change Science: Testimony of James E. Hansen to Committee on Oversight and Government Reform, United States House of Representatives, March 19, 2007.” (PDF)](http://www.columbia.edu/%7Ejeh1/2007/Testimony_20070319.pdf)
+[“Political Interference with Government Climate Change Science: Testimony of James E. Hansen to Committee on Oversight and Government Reform, United States House of Representatives, March 19, 2007.” (PDF)](http://www.columbia.edu/%7Ejeh1/2007/Testimony_20070319.pdf)
 
 Hoggett, Paul, and Rosemary Randall. “[Engaging with Climate Change: Comparing the Cultures of Science and Activism](https://www.ingentaconnect.com/content/whp/ev/2018/00000027/00000003/art00003;jsessionid=3db6a5femqg0j.x-ic-live-03).” _Environmental Values_ 27, no. 3 (2018): 223–43.
 
-Hadden, Jennifer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover.” (PDF)](https://muse.jhu.edu/article/545865/pdf) Global _Environmental Politics_ 14, no. 2 (2014): 7–25.
+Hadden, Jennifer. [“Explaining Variation in Transnational Climate Change Activism: The Role of Inter-Movement Spillover.” (PDF)](https://muse.jhu.edu/article/545865/pdf) Global _Environmental Politics_ 14, no. 2 (2014): 7–25.
 
 _Optional background for a possi__ble final paper topic:_
 
@@ -314,11 +314,11 @@ _Read:_
 
 Chomsky, Noah. “[A Special Supplement: The Responsibility of Intellectuals](https://www.nybooks.com/articles/1967/02/23/a-special-supplement-the-responsibility-of-intelle/).” _NY Review of Books,_ February 23, 1967.
 
-Articles in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 14, 1967 (PDF - 5.2MB)](http://tech.mit.edu/V87/PDF/V87-N17.pdf);![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [March 1, 1968 (PDF - 3.7MB)](https://thetech.com/issues/88/8/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 1, 1968 (PDF - 4.4MB)](https://thetech.com/issues/88/41/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 8, 1968 (PDF - 5.2MB)](https://thetech.com/issues/88/43/pdf)
+Articles in _The Tech_: [April 14, 1967 (PDF - 5.2MB)](http://tech.mit.edu/V87/PDF/V87-N17.pdf); [March 1, 1968 (PDF - 3.7MB)](https://thetech.com/issues/88/8/pdf); [November 1, 1968 (PDF - 4.4MB)](https://thetech.com/issues/88/41/pdf); [November 8, 1968 (PDF - 5.2MB)](https://thetech.com/issues/88/43/pdf)
 
 Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the ABM Debate, 1965–1969.” Chapter 5 in _Disrupting Science: Social Movements, American Scientists, and the Politics of the Military, 1945–1975_. Princeton University Press, 2013, pp. 130–37, and pp. 146–57. ISBN: 9780691162096. \[Preview with [Google Books](https://www.google.com/books/edition/Disrupting_Science/zmqYDwAAQBAJ?hl=en&gbpv=1&dq=Disrupting+Science:+Social+Movements,+American+scientists,+and+the+Politics+of+the+Military,+1945%E2%80%931975.+Princeton+University+Press&printsec=frontcover)\]
 
-Articles in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[September 26, 1969 (PDF - 2.6MB)](https://thetech.com/issues/89/31/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 3, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/33/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 7, 1969 (PDF - 2.1MB)](https://thetech.com/issues/89/34/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 14, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N36.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 21, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N38.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 4, 1969 (PDF - 4.5MB)](http://tech.mit.edu/V89/PDF/V89-N42.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 7, 1969 (PDF - 2MB)](http://tech.mit.edu/V89/PDF/V89-N43.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[December 12, 1969 (PDF - 2.3MB)](http://tech.mit.edu/V89/PDF/V89-N51.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[May 5, 1970 (PDF - 2.8MB)](http://tech.mit.edu/V90/PDF/V90-N23.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[May 18, 1971 (Makowski editorials, pp. 3 and 4)(PDF - 2.1MB)](http://tech.mit.edu/V91/PDF/V91-N27.pdf).
+Articles in _The Tech_: [September 26, 1969 (PDF - 2.6MB)](https://thetech.com/issues/89/31/pdf); [October 3, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/33/pdf); [October 7, 1969 (PDF - 2.1MB)](https://thetech.com/issues/89/34/pdf); [October 14, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N36.pdf); [October 21, 1969 (PDF - 3.1MB)](http://tech.mit.edu/V89/PDF/V89-N38.pdf); [November 4, 1969 (PDF - 4.5MB)](http://tech.mit.edu/V89/PDF/V89-N42.pdf); [November 7, 1969 (PDF - 2MB)](http://tech.mit.edu/V89/PDF/V89-N43.pdf); [December 12, 1969 (PDF - 2.3MB)](http://tech.mit.edu/V89/PDF/V89-N51.pdf); [May 5, 1970 (PDF - 2.8MB)](http://tech.mit.edu/V90/PDF/V90-N23.pdf); [May 18, 1971 (Makowski editorials, pp. 3 and 4)(PDF - 2.1MB)](http://tech.mit.edu/V91/PDF/V91-N27.pdf).
 
 _Optional background for a possible final paper topic:_
 
@@ -354,11 +354,11 @@ Moore, Kelly. “Confronting Liberalism: The Anti-Vietnam War Movement and the A
 
 Nelson, Bryce. “[M.I.T.’s March 4: Scientists Discuss Renouncing Military Research](https://science.sciencemag.org/content/163/3872/1175).” _Science_ 163, no. 3872 (1969): 1175–78.
 
-Articles and letters in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[February 25, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/5/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[March 7, 1969 (PDF - 2.4MB)](http://tech.mit.edu/V89/PDF/V89-N8.pdf)
+Articles and letters in _The Tech_: [February 25, 1969 (PDF - 2.4MB)](https://thetech.com/issues/89/5/pdf); [March 7, 1969 (PDF - 2.4MB)](http://tech.mit.edu/V89/PDF/V89-N8.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Massachusetts Institute of Technology: Review Panel on Special Laboratories-Final Report.” (PDF - 6.9MB)](http://mitscienceforthepeople.weebly.com/uploads/4/0/9/8/40982869/review_panel_on_speciallaboratories_-_final_report_-_oct_1969.pdf) October 1969. (Read at least pp. 1–26, and pp. 88–106).
+[“Massachusetts Institute of Technology: Review Panel on Special Laboratories-Final Report.” (PDF - 6.9MB)](http://mitscienceforthepeople.weebly.com/uploads/4/0/9/8/40982869/review_panel_on_speciallaboratories_-_final_report_-_oct_1969.pdf) October 1969. (Read at least pp. 1–26, and pp. 88–106).
 
-Fate of the Instrumentation Lab—articles in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[May 2, 1969 (PDF - 2MB)](https://thetech.com/issues/89/21/pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[January 9, 1970 (PDF - 1.8MB)](http://tech.mit.edu/V89/PDF/V89-N54.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[May 22, 1970 (PDF - 3MB)](http://tech.mit.edu/V90/PDF/V90-N28.pdf)(Be sure to read the several articles and letters on pp. 4–5).
+Fate of the Instrumentation Lab—articles in _The Tech_: [May 2, 1969 (PDF - 2MB)](https://thetech.com/issues/89/21/pdf); [January 9, 1970 (PDF - 1.8MB)](http://tech.mit.edu/V89/PDF/V89-N54.pdf); [May 22, 1970 (PDF - 3MB)](http://tech.mit.edu/V90/PDF/V90-N28.pdf)(Be sure to read the several articles and letters on pp. 4–5).
 
 _Optional background for a possible final paper topic:_
 
@@ -438,9 +438,9 @@ _Read:_
 
 Hopkins, Nancy. “[A Study on the Status of Women Faculty in Science at MIT](https://aip.scitation.org/doi/abs/10.1063/1.1505288).” _AIP Conference Proceedings_ 628 (2002): 103–6.
 
-MIT Faculty Newsletter Special Edition: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[March 1999 (PDF)](http://web.mit.edu/fnl/women/fnl114x.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April/May 2002 (PDF)](http://web.mit.edu/fnl/vol/archives/Fnl144.pdf)
+MIT Faculty Newsletter Special Edition: [March 1999 (PDF)](http://web.mit.edu/fnl/women/fnl114x.pdf); [April/May 2002 (PDF)](http://web.mit.edu/fnl/vol/archives/Fnl144.pdf)
 
-Chin, Caroline, and Kamilla Tekiela. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“The Status of Undergraduate Women at MIT.” (PDF - 1.1MB)](https://diversity.mit.edu/sites/default/files/images/Report-Undergrad-Women-full-report.pdf) February 2016.
+Chin, Caroline, and Kamilla Tekiela. [“The Status of Undergraduate Women at MIT.” (PDF - 1.1MB)](https://diversity.mit.edu/sites/default/files/images/Report-Undergrad-Women-full-report.pdf) February 2016.
 
 Seron, Carroll, Susan Silbey, Erin Cech, et al. “[‘I Am Not a Feminist, but…’: Hegemony of a Meritocratic Ideology and the Limits of Critique Among Women in Engineering](https://journals.sagepub.com/doi/10.1177/0730888418759774).” _Work and Occupations_ 45, no. 2 (2018): 131–67.
 
@@ -516,13 +516,13 @@ _Read:_
 
 \[BE\] Chapter 13: The Scientist and the Quail Farmer.
 
-Context for MIT anti-apartheid activism: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Polaroid Revolutionary Workers Movement” (PDF - 2.4MB)](http://kora.matrix.msu.edu/files/50/304/32-130-1F8-84-african_activist_archive-a0a8g4-b_12419.pdf); Articles in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[May 2, 1978 (PDF - 4.2MB)](http://tech.mit.edu/V98/PDF/V98-N21.pdf); [March 1, 1985](http://tech.mit.edu/V105/N7/kruger.07n.html); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 9, 1985 (PDF - 3.4MB)](http://tech.mit.edu/V105/PDF/V105-N16.pdf) (Harvard and Columbia protests); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 19, 1985 (PDF - 3.3MB)](http://tech.mit.edu/V105/PDF/V105-N18.pdf) (letter on p. 6); [April 30, 1985](http://tech.mit.edu/V105/N21/feld.21o.html) (Tufts and Cornell protests).
+Context for MIT anti-apartheid activism: [“Polaroid Revolutionary Workers Movement” (PDF - 2.4MB)](http://kora.matrix.msu.edu/files/50/304/32-130-1F8-84-african_activist_archive-a0a8g4-b_12419.pdf); Articles in _The Tech_: [May 2, 1978 (PDF - 4.2MB)](http://tech.mit.edu/V98/PDF/V98-N21.pdf); [March 1, 1985](http://tech.mit.edu/V105/N7/kruger.07n.html); [April 9, 1985 (PDF - 3.4MB)](http://tech.mit.edu/V105/PDF/V105-N16.pdf) (Harvard and Columbia protests); [April 19, 1985 (PDF - 3.3MB)](http://tech.mit.edu/V105/PDF/V105-N18.pdf) (letter on p. 6); [April 30, 1985](http://tech.mit.edu/V105/N21/feld.21o.html) (Tufts and Cornell protests).
 
-Anti-apartheid protests covered by _The Tech_: [June 3, 1985](http://tech.mit.edu/V105/N26/apart.26o.html); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 8, 1985 (PDF - 3.7MB)](http://tech.mit.edu/V105/PDF/V105-N48.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[November 15, 1985 (PDF - 5.4MB)](http://tech.mit.edu/V105/PDF/V105-N49.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[January 8, 1986 (PDF - 2.7MB)](http://tech.mit.edu/V105/PDF/V105-N56.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[March 11, 1986 (PDF - 6.4MB)](http://tech.mit.edu/V106/PDF/V106-N10.pdf).
+Anti-apartheid protests covered by _The Tech_: [June 3, 1985](http://tech.mit.edu/V105/N26/apart.26o.html); [November 8, 1985 (PDF - 3.7MB)](http://tech.mit.edu/V105/PDF/V105-N48.pdf); [November 15, 1985 (PDF - 5.4MB)](http://tech.mit.edu/V105/PDF/V105-N49.pdf); [January 8, 1986 (PDF - 2.7MB)](http://tech.mit.edu/V105/PDF/V105-N56.pdf); [March 11, 1986 (PDF - 6.4MB)](http://tech.mit.edu/V106/PDF/V106-N10.pdf).
 
-More articles in _The Tech_: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[March 4, 1986 (PDF - 3.4MB)](http://tech.mit.edu/V106/PDF/V106-N8.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[March 15, 1986 (PDF)](http://tech.mit.edu/V106/PDF/V106-N12.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 7, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N42.pdf); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[October 21, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N45.pdf) (the letter by MIT President Paul Gray); [March 6, 1990](http://tech.mit.edu/V110/N10/apart.10n.html); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 10, 1990 (PDF - 5.7MB)](http://tech.mit.edu/V110/PDF/V110-N18.pdf) (long); ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 13, 1990 (PDF - 3.2MB)](http://tech.mit.edu/V110/PDF/V110-N19.pdf) (see the letters).
+More articles in _The Tech_: [March 4, 1986 (PDF - 3.4MB)](http://tech.mit.edu/V106/PDF/V106-N8.pdf); [March 15, 1986 (PDF)](http://tech.mit.edu/V106/PDF/V106-N12.pdf); [October 7, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N42.pdf); [October 21, 1986 (PDF - 4.7MB)](http://tech.mit.edu/V106/PDF/V106-N45.pdf) (the letter by MIT President Paul Gray); [March 6, 1990](http://tech.mit.edu/V110/N10/apart.10n.html); [April 10, 1990 (PDF - 5.7MB)](http://tech.mit.edu/V110/PDF/V110-N18.pdf) (long); [April 13, 1990 (PDF - 3.2MB)](http://tech.mit.edu/V110/PDF/V110-N19.pdf) (see the letters).
 
-Still more: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[April 24, 1990 (PDF - 5.2MB)](http://tech.mit.edu/V110/PDF/V110-N21.pdf); [June 4, 1990](http://tech.mit.edu/V110/N28/cod.28n.html); [May 4, 1990](http://tech.mit.edu/V110/N24/colloq.24n.html); [September 28, 1990](http://tech.mit.edu/V110/N38/penn.38o.html); [November 9, 1990](http://tech.mit.edu/V110/N49/manteu.49o.html); [May 2, 1991](http://tech.mit.edu/V111/N24/awards.24n.html).
+Still more: [April 24, 1990 (PDF - 5.2MB)](http://tech.mit.edu/V110/PDF/V110-N21.pdf); [June 4, 1990](http://tech.mit.edu/V110/N28/cod.28n.html); [May 4, 1990](http://tech.mit.edu/V110/N24/colloq.24n.html); [September 28, 1990](http://tech.mit.edu/V110/N38/penn.38o.html); [November 9, 1990](http://tech.mit.edu/V110/N49/manteu.49o.html); [May 2, 1991](http://tech.mit.edu/V111/N24/awards.24n.html).
 
 Soule, Sarah A. “[The Student Divestment Movement in the United States and Tactical Diffusion: The Shantytown Protest](https://www.jstor.org/stable/2580522?origin=crossref&seq=1#metadata_info_tab_contents).” _Social Forces_ 75, no. 3 (1997): 855–82.
 
